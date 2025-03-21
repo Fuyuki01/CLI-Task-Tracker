@@ -29,7 +29,7 @@ python Taskeditor.py
 
 ## Usage
 
-### 📌 Adding a Task
+### Adding a Task
 ```
 add Buy groceries
 ```
@@ -38,7 +38,7 @@ add Buy groceries
 Task added successfully (ID: 1)
 ```
 
-### 📌 Listing All Tasks
+### Listing All Tasks
 ```
 list
 ```
@@ -47,7 +47,7 @@ list
 ID: 1, Task: Buy groceries, Status: todo
 ```
 
-### 📌 Marking a Task as Done
+### Marking a Task as Done
 ```
 mark-done 1
 ```
@@ -56,7 +56,7 @@ mark-done 1
 Task 1 updated to 'done'
 ```
 
-### 📌 Updating a Task
+### Updating a Task
 ```
 update 1 Buy groceries and cook dinner
 ```
@@ -69,7 +69,7 @@ update task name Buy groceries and cook dinner
 Task 1 updated successfully.
 ```
 
-### 📌 Deleting a Task
+### Deleting a Task
 ```
 delete Buy groceries
 ```
@@ -82,7 +82,7 @@ delete 1
 Task 'Buy groceries' removed successfully.
 ```
 
-### 📌 Exiting the CLI
+### Exiting the CLI
 ```
 quit
 clear
