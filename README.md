@@ -92,5 +92,6 @@ leave
 ---
 
 ---
-## Project URL
+## Project URLs
+https://github.com/Fuyuki01/CLI-Task-Tracker
 https://roadmap.sh/projects/task-tracker
