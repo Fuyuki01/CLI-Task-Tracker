@@ -21,6 +21,12 @@ cd CLI-Task-Tracker
 ```
 ---
 
+## Running the Program
+Once inside the project folder, run:
+```
+python Taskeditor.py
+```
+
 ## Usage
 
 ### 📌 Adding a Task
