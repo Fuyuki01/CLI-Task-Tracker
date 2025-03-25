@@ -51,6 +51,10 @@ ID: 1, Task: Buy groceries, Status: todo
 ```
 mark-done 1
 ```
+or
+```
+mark-done Buy groceries and cook dinner
+```
 **Output:**
 ```
 Task 1 updated to 'done'
@@ -59,10 +63,6 @@ Task 1 updated to 'done'
 ### Updating a Task
 ```
 update 1 Buy groceries and cook dinner
-```
-or
-```
-update task name Buy groceries and cook dinner
 ```
 **Output:**
 ```
